@@ -1,5 +1,5 @@
 # Terms of Service
-Effective Date: July 7, 2025
+Effective Date: July 4, 2025
 1. **Acceptance of Terms**
 - By accessing or using Zen Bypass, you agree to be bound by these Terms. If you do not agree, please do not use our service.
 2. **Description of Service**
